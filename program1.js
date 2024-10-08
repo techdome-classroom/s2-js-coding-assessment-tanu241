@@ -34,7 +34,7 @@ const testString=[
     "}{}",
 ]; 
 testString.forEach((str, index)=>{
-    con
+    console.log('Input: s= "')
 })
 
 module.exports = { isValid };
