@@ -18,7 +18,9 @@ for(let i =0; i<s.length; i++){
     } else{
         const top = stack.pop();
 
-        if(parenthesesMap[top]= char)    }
+        if(parenthesesMap[top]= char){
+            
+        }    }
 }
     
 };
