@@ -26,7 +26,7 @@ for(let i =0; i<s.length; i++){
 
 };  
 const testString=[
-    
+    "()"
 ]
 
 module.exports = { isValid };
