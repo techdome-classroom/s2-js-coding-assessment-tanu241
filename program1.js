@@ -22,7 +22,7 @@ for(let i =0; i<s.length; i++){
             return false;
         }    }
 }
-    return stack.length
+    return stack.length=
 };
 
 module.exports = { isValid };
