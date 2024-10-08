@@ -10,7 +10,7 @@ var isValid = function(s) {
     '[': '}',  
     }; 
 
-    f
+for(let i =0; i<s.length; )
     
 };
 
