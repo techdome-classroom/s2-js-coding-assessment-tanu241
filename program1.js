@@ -14,7 +14,8 @@ for(let i =0; i<s.length; i++){
     const char = s[i]; 
 
     if(parenthesesMap[char]) {
-        stack.push(char)
+        stack.push(char); 
+        
     }
 }
     
