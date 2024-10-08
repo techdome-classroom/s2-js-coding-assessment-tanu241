@@ -16,7 +16,9 @@ for(let i =0; i<s.length; i++){
     if(parenthesesMap[char]) {
         stack.push(char); 
     } else{
-        const top = stack
+        const top = stack.pop();
+
+        if(parenthesesMap[top])
     }
 }
     
