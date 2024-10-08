@@ -32,7 +32,7 @@ const testString=[
     "([{}])", 
     "((",
     "}{}",
-]
+];
 
 module.exports = { isValid };
 
