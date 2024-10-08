@@ -19,7 +19,7 @@ for(let i =0; i<s.length; i++){
         const top = stack.pop();
 
         if(parenthesesMap[top]= char){
-            
+            return false;
         }    }
 }
     
