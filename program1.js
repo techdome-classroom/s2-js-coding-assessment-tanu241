@@ -33,7 +33,7 @@ const testString=[
     "((",
     "}{}",
 ]; 
-
+testString.forEach((str, index))
 
 module.exports = { isValid };
 
