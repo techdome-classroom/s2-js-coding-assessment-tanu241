@@ -25,7 +25,9 @@ for(let i =0; i<s.length; i++){
     return stack.length=0; 
 
 };  
-const testString
+const testString=[
+    
+]
 
 module.exports = { isValid };
 
