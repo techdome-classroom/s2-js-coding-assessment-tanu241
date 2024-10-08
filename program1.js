@@ -5,7 +5,8 @@
 var isValid = function(s) { 
     const stack =[]; 
     '(': ')', 
-    '{': 
+    '{': '}', 
+    
     
 };
 
